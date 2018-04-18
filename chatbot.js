@@ -272,6 +272,7 @@ var ChatBot = function () {
                     "Ask what something is like 'What is the time'?",
                     "Ask where something is like 'Where is Hotels.ng'?",
                     "Ask about a person like 'Who is Mark Essien'?",
+                    "Ask about a Program like 'What is HNG internship'?",
                     
                 ];
 
